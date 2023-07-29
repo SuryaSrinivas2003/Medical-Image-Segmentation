@@ -4,7 +4,7 @@
 
 
 
-| ![U-Net Architecture](img/u-net-architecture.png) |
+| ![U-Net Architecture](UNET/img/u-net-architecture.png) |
 | :--: |
 | *U-Net Architecture* |
 
@@ -16,6 +16,6 @@
 
 | ![](results/3.png) |
 | :--: |
-| ![](results/6.png) |
-| ![](results/11.png) |
-| ![](results/21.png) |
+| ![](UNET/results/6.png) |
+| ![](UNET/results/11.png) |
+| ![](UNET/results/21.png) |
