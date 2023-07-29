@@ -4,6 +4,9 @@ Dataset link: https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segment
 
 # Example Output
 
-Original Image             |  Ground Truth          
-:-------------------------:|:-------------------------:
-![](img/image.png)  |  ![](img/mask.png) |
+| ![](results/3.png) |
+| :--: |
+| ![](results/6.png) |
+| ![](results/11.png) |
+| ![](results/21.png) |
+
