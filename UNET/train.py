@@ -86,7 +86,7 @@ if __name__ == "__main__":
     csv_path = os.path.join("files", "log.csv")
 
     """ Dataset """
-    dataset_path = "/media/nikhil/Seagate Backup Plus Drive/ML_DATASET/brain_tumor_dataset/data"
+    dataset_path = "/data"
     (train_x, train_y), (valid_x, valid_y), (test_x, test_y) = load_dataset(dataset_path)
 
     print(f"Train: {len(train_x)} - {len(train_y)}")
